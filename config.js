@@ -4,7 +4,7 @@ window.siteConfig = {
     shortName: 'Faith',
     role: 'Content creator · UGC specialist · virtual assistant · WordPress web designer',
     location: 'Uyo Akwa Ibom state, Nigeria · working globally',
-    email: 'faith@example.com',
+    email: 'faithuyah2002@gmail.com',
     whatsappNumber: '2348129219844',
     whatsappMessage: 'Hi Faith, I found your portfolio and would love to talk about a project.',
     availability: 'Available for selected content, web, and support projects · 2026'
@@ -17,7 +17,7 @@ window.siteConfig = {
   },
   contact: {
     // Replace with the owner's email. FormSubmit uses this address as the delivery inbox.
-    formSubmitEndpoint: 'https://formsubmit.co/ajax/faith@example.com',
+    formSubmitEndpoint: 'https://formsubmit.co/ajax/cdbb2ff03c4995a281cc1567e8eb0f94',
     subjectPrefix: 'New portfolio enquiry from',
     successMessage: 'Thank you — your note is on its way. Faith will get back to you soon.',
     setupNote: 'The first live submission to a new FormSubmit endpoint sends an activation email to the owner.'
@@ -63,13 +63,49 @@ window.siteConfig = {
     },
     {
       number: '02',
+      title: 'He Stopped Her Just to Ask THIS… 😳 | KAYLA Perfume Cinematic Commercial',
+      category: 'UGC content direction',
+      year: '2025',
+      description: 'A creator-led content system with natural product moments, story hooks, and social-ready edits.',
+      image: 'https://www.youtube.com/shorts/OuybIlG55R8',
+      imageAlt: 'Open notebook and coffee on a warm content-planning desk',
+      type: 'video',
+      href: '#contact',
+      accent: 'terracotta'
+    },
+    {
+      number: '03',
+      title: 'He Stopped Her Just to Ask THIS… 😳 | KAYLA Perfume Cinematic Commercial',
+      category: 'UGC content direction',
+      year: '2025',
+      description: 'A creator-led content system with natural product moments, story hooks, and social-ready edits.',
+      image: 'https://www.youtube.com/shorts/fiQyYAHdZjQ',
+      imageAlt: 'Open notebook and coffee on a warm content-planning desk',
+      type: 'video',
+      href: '#contact',
+      accent: 'terracotta'
+    },
+     {
+      number: '04',
+      title: 'I Created a Cinematic AI Ad for Zipp Republic Cap 🔥 | Mr P, This One Is for You!',
+      category: 'UGC content direction',
+      year: '2026',
+      description: 'I reimagined the Zipp Republic Cap as a premium, cinematic brand commercial using AI. 🎬🔥',
+      image: 'https://www.youtube.com/shorts/tjI0SPrdcAU',
+      imageAlt: 'Open notebook and coffee on a warm content-planning desk',
+      type: 'video',
+      href: '#contact',
+      accent: 'terracotta'
+    },
+    {
+      number: '02',
       title: 'Ritual / Everyday',
       category: 'Brand video',
       type: 'img',
 
       year: '2024',
       description: 'A quiet, tactile video direction for a lifestyle brand built around the rituals that make a space feel like home.',
-      image: 'https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1400&q=85',
+      image: 'assets/00f145a4-0ff6-488f-be83-db751e3764cb.jpeg',
       imageAlt: 'Sculptural lamp glowing in a calm interior',
       href: '#contact',
       accent: 'sage'
@@ -80,7 +116,7 @@ window.siteConfig = {
       category: 'WordPress redesign',
       year: '2024',
       description: 'A clearer, more useful website experience for a growing personal brand ready for its next chapter.',
-      image: 'https://images.unsplash.com/photo-1558655146-9f40138edfeb?auto=format&fit=crop&w=1400&q=85',
+      image: 'assets/ChatGPT Image Oct 8, 2026, 12_32_00 PM.png',
       imageAlt: 'Laptop showing a website design workspace',
       href: '#contact',
       accent: 'lilac'
@@ -91,10 +127,46 @@ window.siteConfig = {
       category: 'Content support',
       year: '2023',
       description: 'Content planning, virtual support, and launch materials for a thoughtful skincare studio.',
-      image: 'https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1400&q=85',
+      image: 'assets/Open_product_box_display_2K_20260928165725.jpg',
+      imageAlt: 'Minimal skincare bottles and botanical details',
+      href: '#contact',
+      accent: 'butter'
+    },
+    {
+      number: '04',
+      title: 'After the Refresh',
+      category: 'WordPress redesign',
+      year: '2024',
+      description: 'A clearer, more useful website experience for a growing personal brand ready for its next chapter.',
+      image: 'assets/Food_advertising_poster_design_s…_2K_20261008133546.jpg',
+      imageAlt: 'Laptop showing a website design workspace',
+      href: '#contact',
+      accent: 'lilac'
+    },
+    {
+      number: '05',
+      title: 'Notes for Tomorrow',
+      category: 'Content support',
+      year: '2023',
+      description: 'Content planning, virtual support, and launch materials for a thoughtful skincare studio.',
+      image: 'assets/Skincare_advertisement_product_m…_2K_20261007154955.jpg',
+      imageAlt: 'Minimal skincare bottles and botanical details',
+      href: '#contact',
+      accent: 'butter'
+    },
+    {
+      number: '05',
+      title: 'Notes for Tomorrow',
+      category: 'Content support',
+      year: '2023',
+      description: 'Content planning, virtual support, and launch materials for a thoughtful skincare studio.',
+      image: 'assets/Product_commercial_advertisement…_2K_20261008134034.jpg',
       imageAlt: 'Minimal skincare bottles and botanical details',
       href: '#contact',
       accent: 'butter'
     }
+
+
+
   ]
 };
