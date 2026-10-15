@@ -43,7 +43,15 @@ button, a { -webkit-tap-highlight-color: transparent; }
   padding: 24px clamp(20px, 5vw, 72px); 
 }
 .brand { display: inline-flex; align-items: center; gap: 10px; font-size: 13px; font-weight: 600; letter-spacing: -.02em; }
-.brand-mark { display: inline-grid; place-items: center; width: 32px; height: 32px; color: var(--paper); background: var(--ink); border-radius: 50%; font-size: 10px; letter-spacing: -.08em; }
+.brand-mark { 
+  display: inline-grid; 
+  place-items: center;
+   width: 70px;
+   height: 70px; 
+  color: var(--paper); 
+  background: var(--ink); 
+  border-radius: 50%; 
+  font-size: 10px; letter-spacing: -.08em; }
 .brand-wordmark { text-transform: lowercase; }
 .site-nav { display: flex; align-items: center; gap: 28px; }
 .site-nav a, .back-top { display: inline-flex; align-items: center; gap: 7px; font-size: 12px; font-weight: 600; letter-spacing: .03em; text-transform: uppercase; }

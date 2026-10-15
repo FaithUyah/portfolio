@@ -1,6 +1,6 @@
 window.siteConfig = {
   owner: {
-    name: 'Faith Uyah',
+    name: 'Techie Faith',
     shortName: 'Faith',
     role: 'Content creator · UGC specialist · virtual assistant · WordPress web designer',
     location: 'Uyo Akwa Ibom state, Nigeria · working globally',
@@ -10,10 +10,10 @@ window.siteConfig = {
     availability: 'Available for selected content, web, and support projects · 2026'
   },
   social: {
-    instagram: 'https://instagram.com/',
-    linkedin: 'https://linkedin.com/',
-    behance: 'https://behance.net/',
-    facebook: 'https://behance.net/',
+    instagram:'https://www.instagram.com/faith_uyah/',
+    linkedin: 'https://www.linkedin.com/in/faith-uyah/',
+    behance:  'https://behance.net/',
+    facebook: 'https://www.facebook.com/share/1PBXWC3yKd/',
   },
   contact: {
     // Replace with the owner's email. FormSubmit uses this address as the delivery inbox.
@@ -149,7 +149,7 @@ window.siteConfig = {
       category: 'Content support',
       year: '2023',
       description: 'Content planning, virtual support, and launch materials for a thoughtful skincare studio.',
-      image: 'assets/Skincare_advertisement_product_m…_2K_20261007154955.jpg',
+      image: 'assets/Skincare_editorial_advertisement_2K_20261007162527.jpg',
       imageAlt: 'Minimal skincare bottles and botanical details',
       href: '#contact',
       accent: 'butter'
@@ -160,7 +160,7 @@ window.siteConfig = {
       category: 'Content support',
       year: '2023',
       description: 'Content planning, virtual support, and launch materials for a thoughtful skincare studio.',
-      image: 'assets/Product_commercial_advertisement…_2K_20261008134034.jpg',
+      image: 'assets/Woman_seated_in_studio_portrait_2K_20261008180355.jpg',
       imageAlt: 'Minimal skincare bottles and botanical details',
       href: '#contact',
       accent: 'butter'
